@@ -1,0 +1,43 @@
+Material de la clase:
+
+Repositorio del Curso
+Descarga directa del Material
+
+Enlaces recomendados:
+
+https://github.com/Wakkos/CSS-Guidelines
+https://developer.mozilla.org/es/docs/Web/HTML/Atributos
+http://codepen.io/Wakkos/pen/xAhdq
+https://github.com/daylerees/colour-schemes
+http://www.paulirish.com/2012/box-sizing-border-box-ftw/
+
+Estructura y etiquetas en HTML:
+
+Antes de crear cualquier página web, es importante enfocarnos desde un inicio en optimizar para el contenido de la misma. Mientras más simple y enfocado sea nuestra web, es mucho mejor. El objetivo es comunicar eficientemente la información de la pagina. El contenido se crea en documentos HTML5 y la presentación se hace mediante CSS. Nunca mezclar una con otra.
+
+Iniciemos con el contiendo, acordamos que se hacia mediante un documento HTML5, en este caso,iniciamos con un index.html básico:
+
+El documento index.html anterior, se divide en dos partes esenciales:
+
+La primer parte comprende la etiqueta <head>, que sirve como un contenedor de metadatos, estos suelen contener el título, estilos, enlaces, etc Es todo aquello que no es información a mostrar al usuario, pero que es importante como información de la pagina. Tal como:
+
+<Title>: Esta indica el nombre de la pagina, es muy importante para SEO (Search Engine Optimization). 
+
+<meta charset="UTF-8">: Define el tipo de codificación de la pagina. El recomendado es UTF-8, ya que nos permite tener soporte para caracteres que usamos en nuestro idioma, tales como tildes y letras como la ñ.
+
+Entre otros meta tags importantes tenemos: <meta name="description"> y <meta name="author">, que describen tanto la pagina y el author de la misma. Por ultimo, el meta tag: <meta name="keywords"> ya no es leído por lo navegadores, por lo que ya no es recomendable usarlo.
+
+
+La segunda parte comprende la etiqueta <body>. Aquí es donde existe todo el contenido visible de la pagina al usuario final. Importante mostrar el contenido dentro de esta etiqueta, en otro lado, es inútil. 
+
+Dentro de <body>. podemos encontrar etiquetas como: 
+
+<header>: Es el encabezado de la pagina. Contiene los elementos mas importantes de identidad y navegación de la página:
+
+<nav>:  Es el contenedor que describe la navegación en la pagina. Dentro de el, se agregan elementos bajo una lista no ordenada <ul>  y cada elemento de la lista <li>, puede contener un unlace <a>, donde el href es la URL a donde queremos dirigir al usuario, si  href="# ", quiere decir que el enlace es el home de la misma pagina, por ejemplo:
+
+<section>: Hagamos la analogía de un periódico: Podemos tener diferentes secciones dentro de la misma pagina, pero el contenido puede ser totalmente diferente uno de otro.  <section> nos permite crear pequeños bloques de contenido o secciones de nuestra pagina.
+
+<articule>: Cada bloque de contenido o <section> puede contender diversos artículos, ósea, esos elementos que comparten la misma naturaleza de información. Si nuestro <section> fuera llamado "deportes", cada <articule> tendría contenido totalmente deportivo.
+
+<main>:  Es una etiqueta relativamente nueva, funciona de la misma manera que un <section> solo que es único para el bloque de información mas importante de nuestra pagina. Si fuera un periódico, este seria nuestra "primera plana":
