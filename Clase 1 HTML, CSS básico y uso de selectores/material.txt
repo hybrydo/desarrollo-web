@@ -10,6 +10,16 @@ https://developer.mozilla.org/es/docs/Web/HTML/Atributos
 http://codepen.io/Wakkos/pen/xAhdq
 https://github.com/daylerees/colour-schemes
 http://www.paulirish.com/2012/box-sizing-border-box-ftw/
+http://www.w3.org/TR/wai-aria/Accessible Rich Internet Applications (WAI-ARIA) 1.0
+http://coolvillage.es/ayuda-al-usuario-a-rellenar-formularios-con-css/CSS Como medio de validación VISUAL de formularios
+https://github.com/Wakkos/CSS-GuidelinesWakkos/CSS-Guidelines
+http://codepen.io/Wakkos/pen/xAhdqCSS TOGGLE menu
+http://codepen.io/Wakkos/pen/xAhdqCSS TOGGLE menu
+http://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048
+https://developer.mozilla.org/es/docs/Web/HTML/AtributosHTML - Definición de Atributos
+https://github.com/daylerees/colour-schemesdaylerees/colour-schemes
+http://www.w3.org/TR/wai-aria/roles%20Roles%20de%20HTML404 not found
+http://www.paulirish.com/2012/box-sizing-border-box-ftw/* { box-sizing: border-box } FTW - Paul Irish
 
 Estructura y etiquetas en HTML:
 
