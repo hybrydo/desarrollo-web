@@ -1,0 +1,274 @@
+"Todo debe tener una consistencia visual a nivel de presentación. Eso incluye diseño y desarrollo."
+30
+mike.nievahace 4 meses, 1 semana
+"Si nosotros tenemos una web, debemos de lograr comunicar eficientemente nuestro mensaje, producto, intención."
+27
+mike.nievahace 4 meses, 1 semana
+"Mientras más simple y enfocado sea nuestra web, es mucho mejor. El objetivo es comunicar eficientemente el contenido."
+26
+mike.nievahace 4 meses, 1 semana
+<main> El contenido principal de nuestra web. Es relativamente nueva la etiqueta.
+26
+mike.nievahace 4 meses, 1 semana
+"El contenido es lo más importante. No saturar con código irrelevante y generar un impedimento a los usuarios de consumirlo."
+23
+mike.nievahace 4 meses, 1 semana
+Un selector de #(id) por "página"
+20
+LeonidasEstebanhace 4 meses, 1 semana
+"Un H1 domina sobre el H2. Debemos mostrarlo visualmente de forma más impactante, por el nivel de importancia."
+20
+mike.nievahace 4 meses, 1 semana
+"Para Google, el H1 es el encabezado más importante"
+20
+mike.nievahace 4 meses, 1 semana
+"Una clase jamás afecta el contenido. Sólo añade la opción de seleccionarla con CSS."
+20
+mike.nievahace 4 meses, 1 semana
+"El contenido es lo más importante. No saturar con código irrelevante y generar un impedimento a los usuarios de consumirlo."
+19
+mike.nievahace 4 meses, 1 semana
+Progresive Enhancement: es una manera de maquetar, ir de lo basico a lo avanzado
+19
+AnitaMassacanehace 4 meses, 1 semana
+"Por los estudios que se han hecho, tenemos 5 segundos para que nuestra web cargue. Si no perdemos a los usuarios."
+17
+mike.nievahace 4 meses, 1 semana
+5 segundos, pero 2 segundos en que tenga buena recepcion el movil, eso quiere decir que nos quedan 3 segundos par que carge la pagina
+15
+mikeeramirezhace 4 meses, 1 semana
+La raiz de un css es el body{ } el tamano por default de una font de un apagina es de 16 px
+15
+maya.painshace 4 meses, 1 semana
+"Ser lógicos y fáciles de entender cuando creamos clases y nombres a los archivos en CSS."
+14
+mike.nievahace 4 meses, 1 semana
+"Un id es para usarlo una única vez y funciona como identificador. Class es para usarlo múltiples veces sobre varias etiquetas."
+14
+mike.nievahace 4 meses, 1 semana
+Poner un el prefijo JS cuando usamos ID dentro del HTML para saber que sera usado por JS
+12
+jousmohace 4 meses, 1 semana
+HTML-> data-atributo="nombre" CSS-> li[data-atributo="nombre"] { }
+12
+andresriverphace 4 meses, 1 semana
+Selectores de atributo: me permitirán trabajar con atributos de la etiqueta HTML
+12
+jicaicedoshace 4 meses, 1 semana
+HTML=contenido CSS=presentación. Uno no debe afectar al otro.
+12
+betty.boop.212hace 4 meses, 1 semana
+Como inception,no debemos tener mas de 3 niveles para llegar a un elemento
+12
+thespianartisthace 4 meses, 1 semana
+Mantener separada presentación del contenido. Presentación no debe afectar contenido. Presentación es en CSS. Contenido es en HTML.
+11
+iirrealzerohace 4 meses, 1 semana
+Buena Práctica: uso de prefijo js para indicar que se usará para java script
+11
+iirrealzerohace 4 meses, 1 semana
+BEM (Block Element, Modifier - elemento en bloque, modificador)
+10
+Punk_rragahace 4 meses, 1 semana
+El HTML debe estar limpio. El CSS será lo que le de la forma. No poner estilo en el HTML
+10
+AnitaMassacanehace 4 meses, 1 semana
+BootStrap es un framework de diseño, conjunto de clases para usar estilos ya preparados para desarrollo ágil
+10
+jicaicedoshace 4 meses, 1 semana
+el selector universal (*) selecciona todos los elementos del documento
+10
+hugocasildohace 4 meses, 1 semana
+Selectores de elemento: body, ul, li // Afectan en general a la etiqueta.
+10
+mike.nievahace 4 meses, 1 semana
+Cuando el navegador no entiende una orden la desecha. Entonces así podemos dar diferentes ordenes a diferentes navegadores (Fallback)
+9
+AnitaMassacanehace 4 meses, 1 semana
+~ seleccion de elementos hermanos en el DOM
+9
+josegzzhdzhace 4 meses, 1 semana
+Elemento [ atributo ="NombreAtributo"] { }
+9
+chechamelgarhace 4 meses, 1 semana
+La cascada de CSS quiere decir que el ultimo va a sobrescribir al primero
+9
+carlos.verdinalatorrehace 4 meses, 1 semana
+"Cada navegador tiene un inspector de elementos, que nos permite ver la configuración y assets del sitio"
+9
+mike.nievahace 4 meses, 1 semana
+REM -> Root EM unidad de medida que se basa en la raiz
+9
+adripas1hace 4 meses, 1 semana
+rol define el comportamiento de una etiqueta
+9
+evertonsoulhace 4 meses, 1 semana
+Una de las principales ventajas del CSS: la cascada. Si agrego un atributo, se lee siempre el último, pisa el anterior. Pequeña correción
+9
+AnitaMassacanehace 4 meses, 1 semana
+Normalize y Reset: toman todos los elementos de nuestra web y los normaliza y define con la atmosfera tipografica que queremos en la web
+9
+AnitaMassacanehace 4 meses, 1 semana
+No se debe mezclar presentacion (css) con interaccion (js)
+9
+marihlopezhace 4 meses, 1 semana
+cuando se pone 2 fuentes en ESTILO FONT FAMILY es porque en caso los usuarios no tenga la primera fuente, se toma la segunda
+9
+dante_jaureghace 4 meses, 1 semana
+<section role="main"> sección principal
+8
+angelacpulidohace 4 meses, 1 semana
+Mobile First -> Se empieza desde mobil y terminamos en Desktop
+8
+FiliSantillanhace 4 meses, 1 semana
+No queremos tener contenido extra. No tener codigo HTML solo para que el CSS pueda funcionar. Ej: no poner un div si realmente no lo preciso
+8
+AnitaMassacanehace 4 meses, 1 semana
+rem > Unidad de medida basado en la raíz de un documento HTML default
+8
+yajairo87hace 4 meses, 1 semana
+Selector universal (*), Selector de Elemento (h1, image, body, etc), Selector de clase (.clase), Selector de id
+8
+maya.painshace 4 meses, 1 semana
+@andresgonzalez1986 puedes usar www.csscompressor.com
+8
+LeonidasEstebanhace 4 meses, 1 semana
+Se usa el conector (~) o (+) para los componentes hermanos
+8
+dhoyosmhace 4 meses, 1 semana
+Buena practica: Siempre aplicar la regla de insection , no mas de 3 niveles de profundidad.
+8
+jousmohace 4 meses, 1 semana
+1.-Selector universal: *
+8
+jousmohace 4 meses, 1 semana
+DRY dont repeat yoursferl
+8
+mikeeramirezhace 4 meses, 1 semana
+"El contenido es lo más importante. No saturar con código irrelevante y generar un impedimento a los usuarios de consumirlo."
+8
+felipevillacortehace 4 meses, 1 semana
+Selectores de Atributo (Trabajar con los diferentes atributos del elemento)
+8
+djmiguelarangohace 4 meses, 1 semana
+CSS es quien define como se vera el contenido que hacemos en HTML
+8
+jaac1979hace 4 meses, 1 semana
+Siempre Buscar identidad Visual con la iconografia
+8
+jaac1979hace 4 meses, 1 semana
+BEM (Block Element Modifier) - .nombreclase__modificado
+8
+chechamelgarhace 4 meses, 1 semana
+Si quieren saber como lo genero automáticamente, busquen EMMET para sublime Text
+8
+FiliSantillanhace 4 meses, 1 semana
+box-sizing: border-box; se puede usar en * para afectar todos los elementos. Revisar articulo en "Enlances"
+8
+iirrealzerohace 4 meses, 1 semana
+box-sizing: border-box; ignora el padding y el border
+8
+jaac1979hace 4 meses, 1 semana
+Selector Universal: * (asterisco)
+7
+mike.nievahace 4 meses, 1 semana
+En la etiqueta main va a estar nuestro contenido principal
+7
+andresgonzalez1986hace 4 meses, 1 semana
+DRY: Don't Repeat Yourself!
+7
+dhoyosmhace 4 meses, 1 semana
+<nav> es la etiqueta semántica que le dice a los motores de indexación que esa es la seccion de navegacion
+7
+alejandromanrique26hace 4 meses, 1 semana
+No anidar mas de tres niveles de profundidad en los estilos CSS.
+7
+YurinaLorahace 4 meses, 1 semana
+@betty.boop.212 es una estandarización que usan algunos desarrolladores llamada BEM, busca más sobre esa forma de nombrar clases
+7
+sergiodxahace 4 meses, 1 semana
+Arquitectura BEM (Block, Element, Modifier)
+7
+dhoyosmhace 4 meses, 1 semana
+DRY - Don't Repeat Yourself (No repetir código CSS)
+7
+djmiguelarangohace 4 meses, 1 semana
+Navigation = Role navegación, Header = Role Banner. Section = Role main. Footer=Role Content Info.
+7
+jicaicedoshace 4 meses, 1 semana
+@jicaicedos si, yo NUNCA uso # en css
+7
+LeonidasEstebanhace 4 meses, 1 semana
+La mejor formar para incluir un archivo CSS es a través de: <link rel="stylesheet" href="FILENAME.CSS">
+7
+iirrealzerohace 4 meses, 1 semana
+Los <div> los usamos con fines de presentación.
+7
+ferranarricivitahace 4 meses, 1 semana
+Tener cuidado la regla de inception. No more than three levels deep
+7
+yajairo87hace 4 meses, 1 semana
+SUGERENCIA: Añadir prefijo "data" a los atributos de una etiqueta
+7
+jicaicedoshace 4 meses, 1 semana
+rem : undad de medida que se basa en el tamaño de la raiz, la raiz es el html
+7
+ficr23hace 4 meses, 1 semana
+Selector universal (*), Selector de Elemento (h1, image, body, etc)
+7
+maya.painshace 4 meses, 1 semana
+<header> encabezado, no influye la posición, no necesariamente debe estar arriba
+7
+elvis_1411hace 4 meses, 1 semana
+paulirish.com/2012/box-sizing-border-box-ftw/
+7
+thespianartisthace 4 meses, 1 semana
+Seleccionar hermano - .nombre_clase:checked ~ .nombre_clase2
+7
+djmiguelarangohace 4 meses, 1 semana
+Fallback = Especie de respaldo en css
+7
+liapedrohace 4 meses, 1 semana
+unidad de medida REM, se basa en el tamaño de la raiz
+7
+adripas1hace 4 meses, 1 semana
+Modulos de clases: Un bloque .article y varias selecciones dentro del modulo article__header; article__footer, etc
+7
+AnitaMassacanehace 4 meses, 1 semana
+*{ } Selector universal: se aplica a toda la web... ¡No se recomienda!
+7
+omarzgarciahace 4 meses, 1 semana
+mobile first MOBIL ---> TABLET ---> ESCRITORIO
+7
+miguelangelrf7f520e1d5164979hace 4 meses, 1 semana
+<aside> permite compartir en redes sociales.
+7
+calinalemilhace 4 meses, 1 semana
+Section --> define una parte o sección de un html
+7
+crstndhace 4 meses, 1 semana
+El css no debe de afectar al contenido, el contenido es lo principal
+7
+ederyairrhace 4 meses, 1 semana
++ seleccion del primer elemento hermano en el DOM
+7
+josegzzhdzhace 4 meses, 1 semana
+@chechamelgar root em, 1 rem es el tamaño de fuente de la etiqueta html
+7
+sergiodxahace 4 meses, 1 semana
+El contenido no debe de ser influido por la presentación !
+7
+FiliSantillanhace 4 meses, 1 semana
+Los comentarios nos sirven para manejar ordenadamente en nuestros proyectos y es una gran ayuda
+7
+jicaicedoshace 4 meses, 1 semana
+La semantica se acaba en el article, si necesitas poner algo por dentro ponle un "div"
+6
+LeonidasEstebanhace 4 meses, 1 semana
+En css selectores de clases y en html clases.
+6
+jacquesurrutiabogohace 4 meses, 1 semana
+Buenas practicas: "no more than three level depth"
+6
+iirrealzerohace 4 meses, 1 semana
+Las clases en CSS se llama con . (punto) + nombre de la clase
